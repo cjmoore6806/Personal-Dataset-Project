@@ -5,3 +5,6 @@ The phrase that defense wins championships is commonly used when regarding most 
 **Data Process**
 
 I first began by trying to find an already created table for the previous Super Bowls' winners and losers with their offensive and defensive rank. However, this became unsuccessful and ultimately I ended up creating my own table from scratch. I created a table with the Super Bowl number, the winning team, their offesnive rank, their defesnive rank, the losing team, their offensive rank, and their defensive rank. This data was easily obtainable for pro football focus and can be viewed as Super Bowl Data. I used this excel sheet to create the histograms that are seen below. I then movidified my table to make all the teams in one column, with their defensive rankings, offesnive rankings, and if they won or lost. This was then used to creat the scatterplot.
+
+**Visualization**
+
