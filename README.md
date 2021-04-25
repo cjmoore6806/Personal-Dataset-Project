@@ -17,3 +17,6 @@ The following histograms are for the as follows: the defensive rank of the winni
 ![image](https://user-images.githubusercontent.com/79556416/115978654-d0cede00-a535-11eb-8e2b-9323f9918d34.png)
 
 ![image](https://user-images.githubusercontent.com/79556416/115978683-1095c580-a536-11eb-8c74-54623a849302.png)
+
+![image](https://user-images.githubusercontent.com/79556416/115978712-45a21800-a536-11eb-9a82-82e38d08e7a0.png)
+
