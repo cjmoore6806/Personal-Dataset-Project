@@ -13,3 +13,6 @@ In the first image I created a scatter plot to show the defensive rank and the o
 ![image](https://user-images.githubusercontent.com/79556416/115978575-31115000-a535-11eb-8f60-b04a4c1a5a14.png)
 
 The following histograms are for the as follows: the defensive rank of the winning team, the offensive rank of the winning team, the defensive rank of the losing team and the offesnive rank of the losing team.
+
+![image](https://user-images.githubusercontent.com/79556416/115978654-d0cede00-a535-11eb-8e2b-9323f9918d34.png)
+
