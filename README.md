@@ -8,4 +8,7 @@ I first began by trying to find an already created table for the previous Super 
 
 **Visualization**
 
+In the first image I created a scatter plot to show the defensive rank and the offensive rank of all the teams. They are colored coded by win or lose.
 ![image](https://user-images.githubusercontent.com/79556416/115978575-31115000-a535-11eb-8f60-b04a4c1a5a14.png)
+
+alkd
